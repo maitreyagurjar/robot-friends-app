@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About the App
+
+I created this app as a fun practice project on my react journey. It's a simple app which has a list of robot avatars randomly generated using the RoboHash API. I also implemented a search functionality using React States, which is fast and works well! It was a fun project which enabled me to learn a lot and hone my skills.
+
 ## Available Scripts
 
 In the project directory, you can run:
